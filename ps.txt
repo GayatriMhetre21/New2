@@ -1,0 +1,20 @@
+Q1 ..
+AIM: To Implement Fuzzy Logic Operations
+PROBLEM STATEMENT: Implement Union, Intersection, Complement and Difference operations on fuzzy sets. Also create fuzzy relations by Cartesian product of any two fuzzy sets and perform max-min composition on any two fuzzy relations.
+
+Q2..
+AIM: To understand and implement Clonal Selection Algorithm
+PROBLEM STATEMENT: Implementation of Clonal selection algorithm using Python.
+
+Q3..
+AIM: To Implement AIS (Artificial Immune System) with random synthetic generated data
+PROBLEM STATEMENT: To apply the artificial immune pattern recognition to perform a task of structure damage Classification.
+
+Q4..
+AIM: To implement DEAP Algorithm
+PROBLEM STATEMENT: Implement DEAP (Distributed Evolutionary Algorithms) using Python.
+
+Q5..
+AIM:- Implement Ant colony optimization by solving the Traveling salesman problem using python.
+PROBLEM STATEMENT:- A salesman needs to visit a set of cities exactly once and return to the original city. The task is to find the shortest possible route that the salesman can take to visit all the cities and return to the starting city.
+
